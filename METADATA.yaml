@@ -1,37 +1,25 @@
-title: User Interface & Accessibility
-description: wg-ui-and-a11y Working Group is responsible for AMP's visual components & interactions and AMP's overall accessibility and user experience (including published guidelines for AMP UX). The UI Working Group also has overall responsibility for ensuring AMP is accessible, though each WG is responsible for ensuring accessibility within their areas of responsibility.
+title: Components
+merged: 
+ - ui-and-a11y
+description: wg-components Working Group is responsible for AMP components, the overall health of AMP Pages, analytics features, and integrations with partner technologies. For overall accessibility, this group is also the first point of contact, however each WG is responsbile for ensuring accessibility within their areas of responsibility.
 facilitator:
-  login: nainar
-  name: Naina Raisinghani
+  login: zhouyx
+  name: Yuxuan Zhou
 members:
-  - login: aghassemi
-    name: Ali Ghassemi
-  - login: alanorozco
-    name: Alan Orozco
-  - login: andrewwatterson
-    name: Andrew Watterson
-  - login: cathyxz
-    name: Cathy Zhu
-  - login: cvializ
-    name: Carlos Vializ
-  - login: danielcyoung
-    name: Daniel Young
-  - login: joneleven
-    name: Jonathan Leventhal
+  - login: micajuine-ho
+    name: Micajuine Ho
+  - login: rebeccanthomas
+    name: Rebecca Thomas
   - login: kristoferbaxter
     name: Kristofer Baxter
-  - login: sparhami
-    name: Sepand Parhami
-  - login: wassgha
-    name: Wassim Gharbi
 communication:
   - channel: slack
     name: Slack
     content:
-      - item: "UI Working Group members will use `#wg-ui-and-a11y` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in UI working group."
+      - item: "Components Working Group members will use `#wg-components` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877) for real-time discussion. The channel is open to anyone, regardless of membership in Components working group."
   - channel: github
     name: GitHub
     content:
-      - item: "UI Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
-      - item: "UI Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository."
-      - item: "UI Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository."
+      - item: "Components Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
+      - item: "Components Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository."
+      - item: "Components Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository."
